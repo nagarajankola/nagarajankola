@@ -12,6 +12,49 @@
 
 ##### I'm Nagraj Ankola, Student at 👨‍💻 CEC Mangalore. A techie who's exloring and learning new technologies. Currently working on MERN stack and improving my DSA skills!
 
-#### :robot: Technologies and libraries I've worked on:
+<br>
 
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">   
+#### :robot: Technologies, tools and libraries I've worked on:
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/react.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/ai.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/flutter.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/js.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/materialize.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/npm.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/php.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
+</p>
+
+<br>
+
+## :computer: Projects 
+(yet to update)
+
+
+
+| ReactJS                                                             | Flutter                                                                                  | MLOPs                                                                                                             | NodeJS + MERN Stack |
+| :-----------------------------------------------------------------: |:----------------------------------------------------------------------------------------:| :----------------------------------------------------------------------------------------------------------------:|:-------:|
+|      |                |                       |   |
+
+
+<br>
+
+[![Nagraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajankola&show_icons=true&theme=dracula)](https://github.com/nagarajankola/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajankola&layout=compact)](https://github.com/nagarajankola/github-readme-stats)
+
+<br>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/nagarajankola/count.svg" alt="Visitor Count" align="center" />
+</p>
