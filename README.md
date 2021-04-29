@@ -14,7 +14,4 @@
 
 #### :robot: Technologies and libraries I've worked on:
 
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker1.png" alt="html" style="vertical-align:top; margin:4px">   
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker2.png" alt="html" style="vertical-align:top; margin:4px"> 
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">   
