@@ -13,3 +13,8 @@
 ##### I'm Nagraj Ankola, Student at 👨‍💻 CEC Mangalore. A techie who's exloring and learning new technologies. Currently working on MERN stack and improving my DSA skills!
 
 #### :robot: Technologies and libraries I've worked on:
+
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker1.png" alt="html" style="vertical-align:top; margin:4px">   
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker2.png" alt="html" style="vertical-align:top; margin:4px"> 
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
