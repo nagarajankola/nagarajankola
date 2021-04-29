@@ -53,7 +53,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajankola&layout=compact)](https://github.com/nagarajankola/github-readme-stats)
 
 <br>
-
+####Profile visits:
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/nagarajankola/count.svg" alt="Visitor Count" align="center" />
 </p>
