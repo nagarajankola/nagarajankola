@@ -54,8 +54,9 @@
 
 <br>
 
-#### Profile visits:
-
+<p align="center"> 
+   <u> __Profile visits__ </u>
+</p>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/nagarajankola/count.svg" alt="Visitor Count" align="center" />
 </p>
