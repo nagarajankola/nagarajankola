@@ -9,7 +9,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :adult: Nagraj Ankola | 💻 Full Stack Developer | :man_technologist: Technophile  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-##### I'm Nagraj Ankola, Student at 👨‍💻 CEC Mangalore. A passionate MERN stack developer. Currently building side projects and improving my DSA!
+##### I'm Nagraj Ankola, Student at 👨‍💻 CEC Mangalore. A passionate MERN stack developer. Currently building side projects and improving my DSA skills!
 
 <br>
 
