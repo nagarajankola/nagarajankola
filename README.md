@@ -29,7 +29,7 @@
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/npm.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/php.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/nodejs.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
 <br>
