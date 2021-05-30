@@ -60,11 +60,11 @@
 
 ### DataScience & Devops :fireworks:
 
-| Machine Learning               |  Devops                 |
-| :-------------------:|:-----------------------:|
-|[Object Detection with Supervisely](https://github.com/nagarajankola/Supervisely)|                       |     
-|[Face Recognition Using Transfer Learning](https://github.com/nagarajankola/transfer_learning)||
-
+| Machine Learning               |  MLops  + Devops    | Docker |
+| :-------------------:|:-----------------------:|:-----------------------:|
+|[Object Detection with Supervisely](https://github.com/nagarajankola/Supervisely)|[Integration of JENKINS, GITHUB and DOCKER](https://github.com/nagarajankola/MlopsTask1)|[Docker-OwnCloud](https://github.com/nagarajankola/DockerTask1)|     
+|[Face Recognition Using Transfer Learning](https://github.com/nagarajankola/transfer_learning)|[Integration of JENKINS, GITHUB and DOCKER(Method2)](https://github.com/nagarajankola/MlopsTask2)|[Docker-Joomla](https://github.com/nagarajankola/DockerTask2)|
+||[Automating CI of ML system using jenkins](https://github.com/nagarajankola/MlopsTask3)||
 <br>
 
 ## :bar_chart: Stats 
