@@ -35,7 +35,6 @@
 <br>
 
 ## 🛠️ Projects 
-(yet to update)
 
 
 
