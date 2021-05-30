@@ -44,21 +44,26 @@
 
 | ReactJS                              | MERN                                              | HTML/CSS JS                |  HTML/CSS JS PHP MSQL   |                 
 | :----------------------------------: |:-------------------------------------------------:| :--------------------------:| :--------------------: |
-|                                      |                                                   |                             |                        |
+|[Coin Info](https://github.com/nagarajankola/CoinInfo) |[iBlog](https://github.com/nagarajankola/iBlog)|[Keeper App](https://github.com/nagarajankola/Keeper-App) |[Students Corner](https://github.com/nagarajankola/Students__Corner) |
+|||[Todo List](https://github.com/nagarajankola/todo-list)||
 
 
 ### AppDev  :iphone:
 
 | Flutter              | Android Studio          |
 | :--------------------:|:-----------------------:|
-|                     |                        |                      
+|[Pocket-Docker](https://github.com/nagarajankola/Pocket-Docker)|[Counter-App](https://github.com/nagarajankola/Counter-App)|   
+|[Music-App](https://github.com/nagarajankola/Music-App)| [Calculator](https://github.com/nagarajankola/Calculator-anroidStudio)|
+|[Expense-Tracker](https://github.com/nagarajankola/Expense-Tracker)|[Visiting Card UI](https://github.com/nagarajankola/androidStudio-visitingCard)|
+|[Quiz-App](https://github.com/nagarajankola/Quiz-App)||
 
 
 ### DataScience & Devops :fireworks:
 
-| MLOPS                |  Devops                 |
+| Machine Learning               |  Devops                 |
 | :-------------------:|:-----------------------:|
-|                     |                       |     
+|[Object Detection with Supervisely](https://github.com/nagarajankola/Supervisely)|                       |     
+|[Face Recognition Using Transfer Learning](https://github.com/nagarajankola/transfer_learning)||
 
 <br>
 
