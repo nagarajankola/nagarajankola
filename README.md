@@ -38,7 +38,7 @@
 
 
 
-### WevDev  :computer:
+### WebDev  :computer:
 
 
 | ReactJS                              | MERN                                              |  HTML/CSS JS PHP MSQL   |                 
