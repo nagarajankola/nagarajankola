@@ -38,7 +38,7 @@
 
 
 
-### WebDev  :computer:
+### Web Development  :computer:
 
 
 | ReactJS                              | MERN                                              |  HTML/CSS JS PHP MSQL   |                 
@@ -48,7 +48,7 @@
 |[Todo List](https://github.com/nagarajankola/todo-list)|||
 
 
-### AppDev  :iphone:
+### Application Development  :iphone:
 
 | Flutter              | Android Studio          |
 | :--------------------:|:-----------------------:|
