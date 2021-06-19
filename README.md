@@ -41,12 +41,12 @@
 ### Web Development  :computer:
 
 
-| ReactJS                              | MERN                                              |  HTML/CSS JS PHP MSQL   |                 
-| :----------------------------------: |:-------------------------------------------------:|  :--------------------: |
-|[Coin Info](https://github.com/nagarajankola/CoinInfo) [(live)](https://coininfo-nagraj.netlify.app/) |[iBlog](https://github.com/nagarajankola/iBlog) [(live)](https://iblog-nagraj.herokuapp.com)|[Students Corner](https://github.com/nagarajankola/Students__Corner)|
-|[Keeper App](https://github.com/nagarajankola/Keeper-App)  |||
-|[Todo List](https://github.com/nagarajankola/todo-list)|||
-|[Google Auth & sesssions](https://github.com/nagarajankola/Google-auth-React)|||
+| ReactJS                              | MERN                                              |  HTML/CSS JS PHP MSQL   |    REST API          |             
+| :----------------------------------: |:-------------------------------------------------:|  :--------------------: |:--------------------: |
+|[Coin Info](https://github.com/nagarajankola/CoinInfo) [(live)](https://coininfo-nagraj.netlify.app/) |[iBlog](https://github.com/nagarajankola/iBlog) [(live)](https://iblog-nagraj.herokuapp.com)|[Students Corner](https://github.com/nagarajankola/Students__Corner)|Invoice API|
+|[Keeper App](https://github.com/nagarajankola/Keeper-App)  |||Tours API|
+|[Todo List](https://github.com/nagarajankola/todo-list)|||Image Upload API|
+|[Google Auth & sesssions](https://github.com/nagarajankola/Google-auth-React)||||
 
 
 ### Application Development  :iphone:
