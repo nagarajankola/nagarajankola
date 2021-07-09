@@ -71,7 +71,7 @@
 
 ## :bar_chart: Stats 
 
-<br>
+<br> 
 
 [![Nagraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajankola&show_icons=true&theme=dracula)](https://github.com/nagarajankola/github-readme-stats)
 
