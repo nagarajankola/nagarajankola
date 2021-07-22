@@ -37,6 +37,12 @@
 
 ## 🛠️ Projects 
 
+### 7-Days 7-APIs Challenge🏁
+|||
+|:---------:|:---------------------------------------------------------------------:|
+|Day 1|[Login & Authentication API with JWT tokens](https://github.com/nagarajankola/7-Days-7-API/tree/main/Login%20Signup%20Authentication%20API)|
+|Day 2|[Image Gallery API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Image%20Gallery%20API)|
+|Day 3|[Encrypt Note API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Encrypt%20Note%20API)|
 
 
 ### Web Development  :computer:
