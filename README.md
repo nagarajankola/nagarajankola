@@ -43,6 +43,10 @@
 |Day 1|[Login & Authentication API with JWT tokens](https://github.com/nagarajankola/7-Days-7-API/tree/main/Login%20Signup%20Authentication%20API)|
 |Day 2|[Image Gallery API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Image%20Gallery%20API)|
 |Day 3|[Encrypt Note API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Encrypt%20Note%20API)|
+|Day 4|[Chat API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Chat%20API)|
+|Day 5|[Social Media API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Social%20Media%20API)|
+|Day 6|[Payment API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Payment%20API)|
+|Day 7|[Video streaming API](https://github.com/nagarajankola/7-Days-7-API/tree/main/Video%20Streaming%20API)|
 
 
 ### Web Development  :computer:
