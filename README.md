@@ -55,7 +55,7 @@
 
 | ReactJS                              | MERN                                              |  HTML/CSS JS PHP MSQL   |    REST API          |             
 | :----------------------------------: |:-------------------------------------------------:|  :--------------------: |:--------------------: |
-|[Coin Info](https://github.com/nagarajankola/CoinInfo) [(live)](https://coininfo-nagraj.netlify.app/) |[iBlog](https://github.com/nagarajankola/iBlog) [(live)](https://iblog-nagraj.herokuapp.com)|[Students Corner](https://github.com/nagarajankola/Students__Corner)|[Invoice API](https://github.com/nagarajankola/)|
+|[Coin Info](https://github.com/nagarajankola/CoinInfo) [(live)](https://coininfo-nagraj.netlify.app/) |[iBlog](https://github.com/nagarajankola/iBlog) [(live)](https://iblog-nagraj.herokuapp.com)|[Students Corner](https://github.com/nagarajankola/Students__Corner) [(live)](https://www.linkedin.com/posts/nagraj-ankola-11492816b_this-was-the-project-i-created-in-collaboration-activity-6828755110718513152-bgRs)|[Invoice API](https://github.com/nagarajankola/)|
 |[Keeper App](https://github.com/nagarajankola/Keeper-App)  |||[Tours API](https://github.com/nagarajankola/)|
 |[Todo List](https://github.com/nagarajankola/todo-list)|||[Products API](https://github.com/nagarajankola/)|
 |[Google Auth & sesssions](https://github.com/nagarajankola/Google-auth-React)||||
