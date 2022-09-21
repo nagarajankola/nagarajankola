@@ -11,7 +11,7 @@
 </div>
 
 
-##### I'm Nagraj Ankola, Student at 👨‍💻 CEC Mangalore. A passionate MERN stack developer. Currently building side projects and improving my DSA skills!
+##### I'm Nagraj Ankola. A passionate MERN stack developer. Currently building side projects and improving my DSA skills!
 
 <br>
 
