@@ -20,12 +20,12 @@ Robocorp Level 3 certified!
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/react.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/ai.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/bootstrap.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/react.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/ai.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/flutter.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
