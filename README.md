@@ -26,12 +26,12 @@ Robocorp Level 3 certified!
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/ai.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/docker.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/flutter.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/js.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/materialize.svg" alt="html" style="vertical-align:top; margin:4px">
-   <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/npm.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/php.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -40,13 +40,13 @@ Robocorp Level 3 certified!
 </p>
 
 <p align="center">
-   <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+   <img src="https://github.com/nagarajankola/nagarajankola/blob/main/assets/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
    
 
 </p>
